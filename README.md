@@ -8,6 +8,10 @@ https://github.com/matteocourthoud/awesome-causal-inference/tree/main
 
 https://dlc.sh/lernangebot/885
 
+## Kausale Inferenz im OpRisk-Management
+
+https://www.risknet.de/themen/risknews/kausale-inferenz-im-oprisk-management/
+
 ## Decisions in Time
 
 https://www.coursera.org/specializations/datasciencedecisionsintime
