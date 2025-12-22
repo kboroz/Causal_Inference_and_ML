@@ -48,6 +48,10 @@ https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8
 
+## Granger
+
+https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
+
 ## Introduction to Causal Inference
 
 https://www.bradyneal.com/causal-inference-course
