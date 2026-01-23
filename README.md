@@ -95,3 +95,7 @@ https://github.com/NickCH-K/causaldata/tree/main
 ## Causal Inference meets Probabilistic Models
 
 https://gpss.cc/gpss20/workshop.html
+
+## Causal inference in quasi-experimental settings
+
+https://github.com/pymc-labs/CausalPy
