@@ -12,30 +12,6 @@ https://dlc.sh/lernangebot/885
 
 https://www.risknet.de/themen/risknews/kausale-inferenz-im-oprisk-management/
 
-## Decisions in Time
-
-https://www.coursera.org/specializations/datasciencedecisionsintime
-
-## A Crash Course in Causality
-
-https://www.coursera.org/learn/crash-course-in-causality
-
-## Explainable AI (XAI)
-
-https://www.coursera.org/specializations/explainable-artificial-intelligence-xai
-
-## Reliable and InterpretableAI
-
-https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y
-
-## Causal Inference 1
-
-https://www.coursera.org/learn/causal-inference
-
-## Causal Inference 2
-
-https://www.coursera.org/learn/causal-inference-2
-
 ## Causal Inference for The Brave
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
@@ -47,7 +23,6 @@ https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
 ## Introduction to Causal Inference
 
 https://www.bradyneal.com/causal-inference-course
-
 
 ## ML & Causal Inference
 
