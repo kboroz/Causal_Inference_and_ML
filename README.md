@@ -28,10 +28,6 @@ https://www.coursera.org/specializations/explainable-artificial-intelligence-xai
 
 https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y
 
-## Causal Inference Bootcamp
-
-https://www.youtube.com/playlist?list=PL1M5TsfDV6Vufqfs_h5fDR3pBhIj4QOW7
-
 ## Causal Inference 1
 
 https://www.coursera.org/learn/causal-inference
@@ -44,10 +40,6 @@ https://www.coursera.org/learn/causal-inference-2
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
-## The Effect
-
-https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8
-
 ## Granger
 
 https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
@@ -56,13 +48,6 @@ https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
 
 https://www.bradyneal.com/causal-inference-course
 
-## Causal Inference Course
-
-https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0
-
-## Causal Inference
-
-https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H
 
 ## ML & Causal Inference
 
@@ -80,14 +65,6 @@ https://causalml-book.org/
 
 https://github.com/matheusfacure/causal-inference-in-python-code/tree/main
 
-## causalXtreme
-
-https://github.com/nicolagnecco/causalXtreme
-
-## Graphical Extremes
-
-https://github.com/sebastian-engelke/graphicalExtremes
-
 ## Causaldata
 
 https://github.com/NickCH-K/causaldata/tree/main
@@ -96,7 +73,7 @@ https://github.com/NickCH-K/causaldata/tree/main
 
 https://gpss.cc/gpss20/workshop.html
 
-## Causal inference in quasi-experimental settings
+## CausalPy - Causal inference in quasi-experimental settings
 
 https://github.com/pymc-labs/CausalPy
 
@@ -112,8 +89,12 @@ https://pypi.org/project/tigramite/4.2.1.3/
 
 https://github.com/jakobrunge/tigramite
 
-## CausalPy
+## causalXtreme
 
-https://github.com/pymc-labs/CausalPy
+https://github.com/nicolagnecco/causalXtreme
+
+## Graphical Extremes
+
+https://github.com/sebastian-engelke/graphicalExtremes
 
 
