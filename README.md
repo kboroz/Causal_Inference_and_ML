@@ -1,17 +1,5 @@
 # Causal_Inference_and_ML
 
-## List Causal Inference
-
-https://github.com/matteocourthoud/awesome-causal-inference/tree/main
-
-## Einführungskurs Kausale Inferenz
-
-https://dlc.sh/lernangebot/885
-
-## Kausale Inferenz im OpRisk-Management
-
-https://www.risknet.de/themen/risknews/kausale-inferenz-im-oprisk-management/
-
 ## Causal Inference for The Brave
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
