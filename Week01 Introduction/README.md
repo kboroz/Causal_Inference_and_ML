@@ -1,4 +1,4 @@
-## Familirauie yourself with the lecture content:
+## Familiarize yourself with the lecture content !!!
 
 ## Check-Out the references, books, libraries....BE ACTIVE !!!
 
