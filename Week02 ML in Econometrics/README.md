@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=Qs6JmdNoT-Y&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 https://www.youtube.com/watch?v=e2Nmlk0cbrY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=5
 
-## Prepare the Notebboks:
+## Prepare the Notebooks:
