@@ -1,13 +1,9 @@
 ## Watch the videos:
 
-https://www.youtube.com/watch?v=0GK6IZut6K8&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=13
+https://www.youtube.com/watch?v=BH8U-BMPklw&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=10
 
-https://www.youtube.com/watch?v=N9ThAs7NS0g&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=14
+https://www.youtube.com/watch?v=JtDRpM6Mnnw&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=11
 
-https://www.youtube.com/watch?v=W68m6PzxuKY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=15
-
-https://www.youtube.com/watch?v=gaX_HP0tdRE&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=16
+https://www.youtube.com/watch?v=fNjToAQ9v3g&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=12
 
 ## Prepare the Notebooks:
-
-
