@@ -8,6 +8,8 @@ ML & Causal Inference short course from Stanford’s School of Business — a pr
 
 https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/methods/ai-machine-learning/short-course
 
+https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-
+
 The CausalML Book — a comprehensive, open-access resource that explores both the theoretical underpinnings and real-world application of causal machine learning tools.
 
 https://causalml-book.org/
