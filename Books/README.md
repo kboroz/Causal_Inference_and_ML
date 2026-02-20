@@ -6,6 +6,10 @@ https://archive.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.p
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
+## ML-based Causal Inference
+
+https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
+
 ## CausalML Book
 
 https://causalml-book.org/
