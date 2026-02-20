@@ -24,3 +24,7 @@ Get confident in identifying cause and effect.
 
 Like, subscribe, hit the bell-button … you know how it works … 😉
 
+## Another OMNI-GitHub-Repo on Causality - Check it out:
+
+https://github.com/matteocourthoud/awesome-causal-inference/tree/main
+
