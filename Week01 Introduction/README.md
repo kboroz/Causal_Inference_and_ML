@@ -5,3 +5,5 @@
 ## Come Up with an project-proposal !!!
 
 https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-neurips-2025
+
+## Prepare the lecture material for next week !!!
