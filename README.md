@@ -12,9 +12,11 @@ The CausalML Book — a comprehensive, open-access resource that explores both t
 
 https://causalml-book.org/
 
-From core concepts to cutting-edge techniques, we emphasize understanding why things happen – not just predicting what will happen.
+We emphasize understanding why things happen – not just predicting what will happen.
 
-Application and usability are our main drivers. Watch the videos – explore the Python notebooks – try things out on your own data.
+Application and usability are our main drivers. 
+
+Watch the videos – explore the Python notebooks – try things out on your own data.
 
 Get confident in identifying cause and effect.
 
