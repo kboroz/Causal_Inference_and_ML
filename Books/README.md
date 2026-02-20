@@ -10,6 +10,10 @@ https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 https://mixtape.scunning.com/index.html
 
+## Causal Inference - What if
+
+https://miguelhernan.org/whatifbook
+
 ## ML-based Causal Inference
 
 https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
