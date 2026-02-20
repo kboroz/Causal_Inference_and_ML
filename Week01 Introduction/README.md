@@ -1,12 +1,5 @@
-## Watch the videos:
+## Familirauie yourself with the lecture content:
 
-https://www.youtube.com/watch?v=Z0ZcsxI-HTs&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=2
+## Check-Out the references, books, libraries....BE ACTIVE !!!
 
-https://www.youtube.com/watch?v=G5qrBvOmzes&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=3
-
-https://www.youtube.com/watch?v=Qs6JmdNoT-Y&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=4
-
-https://www.youtube.com/watch?v=e2Nmlk0cbrY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=5
-
-## Prepare the Notebboks:
-
+## Come Up with an project-proposal !!!
