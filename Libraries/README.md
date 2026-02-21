@@ -11,6 +11,10 @@ https://github.com/NickCH-K/causaldata/tree/main
 
 https://github.com/pymc-labs/CausalPy
 
+## DAGitty
+
+https://www.dagitty.net/
+
 ## CausalNex
 
 https://causalnex.readthedocs.io/en/latest/
