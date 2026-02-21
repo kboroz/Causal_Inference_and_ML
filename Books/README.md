@@ -10,6 +10,10 @@ https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 https://mixtape.scunning.com/index.html
 
+## The Effect
+
+https://theeffectbook.net/
+
 ## Causal Inference - What if
 
 https://miguelhernan.org/whatifbook
