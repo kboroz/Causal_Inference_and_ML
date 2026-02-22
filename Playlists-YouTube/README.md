@@ -2,6 +2,10 @@
 
 https://www.youtube.com/playlist?list=PL1M5TsfDV6Vufqfs_h5fDR3pBhIj4QOW7
 
+## Causality
+
+https://www.youtube.com/playlist?list=PLcTBLulJV_AKmUTH-nUsxxFyRQoWnUzxU
+
 ## The Effect
 
 https://www.youtube.com/playlist?list=PLcTBLulJV_AK1hKtnO0-kYrU0D09K-kj8
