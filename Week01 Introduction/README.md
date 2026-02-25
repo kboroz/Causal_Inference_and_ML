@@ -12,4 +12,3 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
 ## Prepare the lecture material for next week !!!
 
-
