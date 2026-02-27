@@ -10,6 +10,8 @@ https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil/research/meth
 
 https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-
 
+https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
+
 The CausalML Book — a comprehensive, open-access resource that explores both the theoretical underpinnings and real-world application of causal machine learning tools.
 
 https://causalml-book.org/
