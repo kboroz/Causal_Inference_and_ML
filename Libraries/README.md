@@ -2,6 +2,10 @@
 
 https://cran.r-project.org/
 
+## EconML
+
+https://github.com/py-why/EconML
+
 ## DoWhy
 
 https://www.pywhy.org/dowhy/v0.14/index.html
