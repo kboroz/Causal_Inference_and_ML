@@ -1,3 +1,7 @@
+## Spurious Correlations
+
+https://www.tylervigen.com/spurious-correlations
+
 ## Familiarize yourself with the lecture content !!!
 
 Watch this short playlist
