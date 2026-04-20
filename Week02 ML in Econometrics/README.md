@@ -8,4 +8,6 @@ https://www.youtube.com/watch?v=Qs6JmdNoT-Y&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 https://www.youtube.com/watch?v=e2Nmlk0cbrY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=5
 
-## Prepare the Notebooks:
+## Prepare the Notebook(s):
+
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week02%20ML%20in%20Econometrics/Week02.ipynb
