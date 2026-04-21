@@ -21,3 +21,7 @@ https://www.edx.org/learn/data-analysis/harvard-university-causal-diagrams-draw-
 ## Decisions in Time
 
 https://www.coursera.org/specializations/datasciencedecisionsintime
+
+## AI Techniques, Causal Inference & Business Optimization Specialization
+
+https://www.coursera.org/specializations/ai-techniques-causal-inference-business-optimization
