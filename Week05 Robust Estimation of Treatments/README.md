@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=gaX_HP0tdRE&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 ## Prepare the Notebooks:
 
+#1
+
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_linear_penalized_regs.ipynb
+
+#2
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_ml_for_wage_prediction.ipynb
