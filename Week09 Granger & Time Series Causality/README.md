@@ -6,4 +6,9 @@ https://medium.com/data-science/fun-with-arma-var-and-granger-causality-6fdd29d8
 
 https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
 
+https://medium.com/causality-in-data-science/hands-on-causal-discovery-with-python-e4fb2488c543
+
+https://medium.com/@jakob_6124
+
+
 
