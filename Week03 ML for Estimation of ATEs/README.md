@@ -17,3 +17,5 @@ https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/ma
 #2
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/python-ols-and-lasso-for-wage-gap-inference.ipynb
+
+# Come-Up with an project-proposal / idea / dataset !!!
