@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=m3Y8heXoDxE&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 https://www.youtube.com/watch?v=IfZHUFFlsGc&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=9
 
 ## Prepare the Notebooks:
+
+https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/python-ols-and-lasso-for-wage-prediction.ipynb
+
+https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/python-ols-and-lasso-for-wage-gap-inference.ipynb
