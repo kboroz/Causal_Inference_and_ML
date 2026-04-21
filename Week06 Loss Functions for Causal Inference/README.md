@@ -10,4 +10,7 @@ https://www.youtube.com/watch?v=YQXRwvFQOPk&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 ## Prepare the Notebboks:
 
+https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_convergence_hypothesis_double_lasso.ipynb
+
+https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_heterogeneous_wage_effects.ipynb
 
