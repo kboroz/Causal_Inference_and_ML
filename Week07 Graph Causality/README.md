@@ -2,7 +2,7 @@ https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5
 
 https://www.youtube.com/watch?v=AStrI3FhMWg
 
-# Prepare the Notebooks:
+# Prepare the Notebook(s):
 
 #1
 
