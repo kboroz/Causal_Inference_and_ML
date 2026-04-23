@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=JtDRpM6Mnnw&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 https://www.youtube.com/watch?v=fNjToAQ9v3g&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=12
 
-## Prepare the Notebooks:
+## Prepare the Notebook(s):
 
 #1
 
