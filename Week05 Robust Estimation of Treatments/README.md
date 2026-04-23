@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=W68m6PzxuKY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 https://www.youtube.com/watch?v=gaX_HP0tdRE&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=16
 
-## Prepare the Notebooks:
+## Prepare the Notebook(s):
 
 #1
 
