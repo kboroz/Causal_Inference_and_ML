@@ -1,3 +1,7 @@
+## Read the article(s)
+
+t.b.c.
+
 ## Watch the video(s)
 
 t.b.c
