@@ -1,6 +1,12 @@
+## Read the article(s):
+
 https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/
 
-# Prepare the Notebooks:
+## Watch the video(s):
+
+t.b.c.
+
+## Prepare the Notebooks:
 
 #1
 
