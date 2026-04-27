@@ -1,3 +1,8 @@
+## Watch the video(s)
+
+t.b.c
+
+## Prepare the Notebook(s):
 
 #1
 
