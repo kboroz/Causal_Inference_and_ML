@@ -1,8 +1,12 @@
+## Read the article(s):
+
 https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5fd1dd82fa90
+
+## Watch the video(s):
 
 https://www.youtube.com/watch?v=AStrI3FhMWg
 
-# Prepare the Notebook(s):
+## Prepare the Notebook(s):
 
 #1
 
