@@ -1,4 +1,4 @@
-## Watch the videos:
+## Watch the video(s):
 
 https://www.youtube.com/watch?v=ZA8iOjUR8aY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=6
 
