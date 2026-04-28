@@ -2,53 +2,51 @@
 
 https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-neurips-2025
 
-## CausalPitfallsData:
-
-    berkson_paradox
-    Name(s):
-
-    casual_effect
-    Name(s):
+## "Working" titles and/or datasets for your project(s):
     
-    causal_direction_iv
-    Name(s):
+    ALI -> "casual_effect"
+    
+    AADIP -> "treatment_mediator"
+        
+    Cosima -> "mediation_outcome_confounder"
 
-    counterfactual_reasoning
-    Name(s):
+    Johanna -> "observational_vs_experimental_reasoning"
 
-    dag_structure_markequi
-    Name(s):
+    Martha -> "sequential_mediator"
 
-    domain_shift
-    Name(s):
-
-    mediation_outcome_confounder
-    Name(s):
-
-    moderation_effect
-    Name(s):
-
-    necessity_sufficiency
-    Name(s):
-
-    observational_vs_experimental_reasoning
-    Name(s):
-
-    population_shift
-    Name(s):
-
-    sequential_mediator
-    Name(s):
-
-    simpson_paradox
-    Name(s):
-
-    temporal_stability
-    Name(s):
-
-    treatment_mediator
-    Name(s):
+    Polina -> "simpson_paradox"
 
 ## Individual Project(s):
 
-t.b.c.
+    Chetna -> Income Dynamics
+    
+    Christian -> Energy Consumption
+    
+    Lena -> MixTape-Causal Dataset
+
+    Julian -> Educational Science
+
+    Lucas -> ICU Dataset
+
+    Philipp -> Default probabilities
+
+    Sajjad -> Causal Attribution of Portfolio Risk
+
+    Wassem -> Yield Production & Sustainability
+
+    Yuen -> OMICS Data
+     
+
+## Optional projects from the CausalML-Book:
+
+Chapter 10 - BERT - Fine-Tuning of a small LM
+
+Chapter 11+12 - DAGs - Direct Acyclic Graphs
+
+Chapter 13 - IV - Instrumental Variables
+
+Chapter 14 + 15 - CATE - Conditional Average Treatment Effects
+
+Chapter 16 - DiD - Difference in Differences
+
+
