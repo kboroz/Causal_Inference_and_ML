@@ -1,15 +1,5 @@
 ## Read the article(s):
 
-https://towardsdatascience.com/identifying-and-leveraging-leading-indicators-for-time-series-forecasting-using-granger-causality-d0e6fd5e353f/
-
-https://towardsdatascience.com/forecasting-with-granger-causality-checking-for-time-series-spurious-correlations-5faed62c3604/
-
-https://medium.com/data-science/fun-with-arma-var-and-granger-causality-6fdd29d8391c
-
-https://medium.com/causality-in-data-science/hands-on-causal-discovery-with-python-e4fb2488c543
-
-## Runge
-
 https://medium.com/causality-in-data-science/why-machine-learning-needs-causality-3d33e512cd37
 
 https://medium.com/causality-in-data-science/what-is-causal-machine-learning-ceb480fd2902
@@ -34,6 +24,12 @@ https://medium.com/causality-in-data-science/nonlinear-causal-effect-estimation-
 
 ## Prepare the Notebook(s)
 
+https://medium.com/data-science/fun-with-arma-var-and-granger-causality-6fdd29d8391c
+
+https://towardsdatascience.com/identifying-and-leveraging-leading-indicators-for-time-series-forecasting-using-granger-causality-d0e6fd5e353f/
+
 https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
+
+https://towardsdatascience.com/forecasting-with-granger-causality-checking-for-time-series-spurious-correlations-5faed62c3604/
 
 
