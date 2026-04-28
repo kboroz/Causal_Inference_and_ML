@@ -4,9 +4,9 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
 ## "Working" titles and/or datasets for your project(s):
     
-    ALI -> "casual_effect"
+    Ali -> "casual_effect"
     
-    AADIP -> "treatment_mediator"
+    Aadip -> "treatment_mediator"
         
     Cosima -> "mediation_outcome_confounder"
 
