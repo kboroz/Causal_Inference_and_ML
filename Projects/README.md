@@ -37,9 +37,7 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
     Yuen -> OMICS Data
      
 
-## Optional projects from the CausalML-Book:
-
-https://causalml-book.org/
+## Optional projects from the CausalML-Book - https://causalml-book.org/:
 
 Chapter 10 - BERT - Fine-Tuning of a small LM
 
