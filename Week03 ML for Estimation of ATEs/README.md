@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=IfZHUFFlsGc&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 ## Prepare the Notebook(s):
 
-#1
+#1 Lena ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/python-ols-and-lasso-for-wage-prediction.ipynb
 
-#2
+#2 ❌❌❌
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/python-ols-and-lasso-for-wage-gap-inference.ipynb
 
