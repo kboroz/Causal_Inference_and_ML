@@ -39,6 +39,8 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
 ## Optional projects from the CausalML-Book:
 
+https://causalml-book.org/
+
 Chapter 10 - BERT - Fine-Tuning of a small LM
 
 Chapter 11+12 - DAGs - Direct Acyclic Graphs
