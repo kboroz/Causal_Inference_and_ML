@@ -32,14 +32,13 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
     Lucas -> ICU Dataset
 
+    Mohan -> Causal Inference in Fluid Mechanics
+
     Philipp -> Default probabilities
 
     Sajjad -> Causal Attribution of Portfolio Risk
 
-    Wassem -> Yield Production & Sustainability
-
-    Yuen -> OMICS Data
-     
+    Wassem -> Yield Production & Sustainability   
 
 ## Optional projects from the CausalML-Book - https://causalml-book.org/:
 
@@ -52,5 +51,7 @@ Chapter 13 - IV: Instrumental Variables
 Chapter 14 + 15 - CATE: Conditional Average Treatment Effects
 
 Chapter 16 - DiD: Difference in Differences
+
+Yuen -> You CHOOSE ;-)
 
 
