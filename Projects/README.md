@@ -20,6 +20,8 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
     Polina -> "simpson_paradox"
 
+    Yuen -> causal_direction_iv
+
 ## Individual Project(s):
 
     Chetna -> Income Dynamics
@@ -51,7 +53,6 @@ Chapter 13 - IV: Instrumental Variables
 Chapter 14 + 15 - CATE: Conditional Average Treatment Effects
 
 Chapter 16 - DiD: Difference in Differences
-
-Yuen -> You CHOOSE ;-)
+Ella
 
 
