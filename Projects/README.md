@@ -52,8 +52,7 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
     Chapter 14 + 15 - CATE: Conditional Average Treatment Effects
 
-    Chapter 16 - DiD: Difference in Differences
-    Ella
+    Ella -> Chapter 16 - DiD: Difference in Differences
 
 
 
