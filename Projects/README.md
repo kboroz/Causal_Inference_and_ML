@@ -44,15 +44,17 @@ https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-
 
 ## Optional projects from the CausalML-Book - https://causalml-book.org/:
 
-Chapter 10 - BERT: Fine-Tuning of a small LM
+    Chapter 10 - BERT: Fine-Tuning of a small LM
 
-Chapter 11+12 - DAGs: Direct Acyclic Graphs
+    Chapter 11+12 - DAGs: Direct Acyclic Graphs
 
-Chapter 13 - IV: Instrumental Variables
+    Chapter 13 - IV: Instrumental Variables
 
-Chapter 14 + 15 - CATE: Conditional Average Treatment Effects
+    Chapter 14 + 15 - CATE: Conditional Average Treatment Effects
 
-Chapter 16 - DiD: Difference in Differences
-Ella
+    Chapter 16 - DiD: Difference in Differences
+    Ella
+
+
 
 
