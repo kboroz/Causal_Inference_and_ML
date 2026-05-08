@@ -3,9 +3,12 @@
 
 ## **MANDATORY**: You need to have your GitHub repository ready
   -Literature review: add some papers, books, or similar sources
+  
   -Upload your dataset or provide a link to it
+  
   -Visualize your data in a meaningful way
+  
   -Prepare a 2-page presentation
 
 ## **VOLUNTARY**:
-  -If possible, describe some methods or techniques you would like to apply to your dataset
+  -If possible, describe or show some methods or techniques you would like to apply to your dataset
