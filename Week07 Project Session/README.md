@@ -1,6 +1,6 @@
 # **Present the current state of your project!!!**
 
-## Use theProject-Template
+## Use the Project-Template
 
 https://github.com/opencampus-sh/ml-project-template
 
