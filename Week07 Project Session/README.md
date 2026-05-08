@@ -11,4 +11,4 @@
   -Prepare a 2-page presentation
 
 ## **VOLUNTARY**:
-  -If possible, describe or show some methods or techniques you would like to apply to your dataset
+  -If possible, describe or show some methods or techniques from the course you would like to apply to your dataset
