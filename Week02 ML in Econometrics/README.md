@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=e2Nmlk0cbrY&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 #1
 
-https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week02%20ML%20in%20Econometrics/Week02_Causal_Inference_Statistics_Template.ipynb
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week02%20ML%20in%20Econometrics/Colab_Week02_Statistics_Template.ipynb
 
 #2
 
-https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week02%20ML%20in%20Econometrics/Week02.ipynb
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week02%20ML%20in%20Econometrics/Colab_Week02_Econometrics_Template.ipynb
 
 
 
