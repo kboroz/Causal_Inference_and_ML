@@ -5,6 +5,9 @@
 https://github.com/opencampus-sh/ml-project-template
 
 ## **MANDATORY**: You need to have your GitHub repository ready
+
+  -CHOOSE YOUR PROJECT TITLE !!!
+  
   -Literature review: add some papers, books, or similar sources
   
   -Upload your dataset or provide a link to it
