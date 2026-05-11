@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=0YLZXjMHA-8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7
 
 ## Prepare the Notebook(s):
 
-#1
+#1 Lucas
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM2/python-colliderbias-hollywood.ipynb
 
@@ -27,7 +27,7 @@ https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/ma
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM3/python-pgmpy.ipynb
 
-#3
+#3 Chetna
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM3/python-dosearch.ipynb
 
