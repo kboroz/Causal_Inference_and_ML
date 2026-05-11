@@ -28,7 +28,7 @@ https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference
 
 ## Prepare the Notebook(s)
 
-#1
+#1 Philipp
 
 https://towardsdatascience.com/identifying-and-leveraging-leading-indicators-for-time-series-forecasting-using-granger-causality-d0e6fd5e353f/
 
