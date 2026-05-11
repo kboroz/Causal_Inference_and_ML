@@ -8,7 +8,7 @@ https://github.com/opencampus-sh/ml-project-template
 
   -**!!! CHOOSE YOUR PROJECT TITLE !!!**
   
-  -Literature review: add some papers, books, or similar sources
+  -Make a small literature review i.e. add some papers, books, or similar sources
   
   -Upload your dataset or provide a link to it
   
