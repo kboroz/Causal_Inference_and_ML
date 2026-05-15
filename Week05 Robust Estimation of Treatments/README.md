@@ -21,7 +21,9 @@ https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/ma
 ## Quick-Fix for the Notebook(s):
 
 #!git clone https://github.com/maxhuppertz/hdmpy.git
+
 #!pip install multiprocess
 
 !pip install hdmpy==0.1.0
+
 !pip install multiprocess
