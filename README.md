@@ -12,9 +12,13 @@ https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-
 
 https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/
 
-The CausalML Book — a comprehensive, open-access resource that explores both the theoretical underpinnings and real-world application of causal machine learning tools.
+The "CausalML-Book" — a comprehensive, open-access resource that explores both the theoretical underpinnings and real-world application of causal machine learning tools.
 
 https://causalml-book.org/
+
+The "CausalMLBook" — i sanother open-access resource that tackles the field from a different viewpoint.
+
+https://www.causalmlbook.com/
 
 We emphasize understanding why things happen – not just predicting what will happen.
 
