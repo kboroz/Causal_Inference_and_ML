@@ -4,7 +4,7 @@
 
 https://github.com/opencampus-sh/ml-project-template
 
-## **MANDATORY**: You need to have your GitHub repository ready by this week
+## **MANDATORY**: You need to have your GitHub repository ready by this week/date
 
   -**!!! CHOOSE YOUR PROJECT TITLE !!!**
   
