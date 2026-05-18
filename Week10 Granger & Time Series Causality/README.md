@@ -32,11 +32,11 @@ https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference
 
 https://towardsdatascience.com/identifying-and-leveraging-leading-indicators-for-time-series-forecasting-using-granger-causality-d0e6fd5e353f/
 
-#2
+#2 Wassem
 
 https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
 
-#3
+#3 Christian
 
 https://medium.com/data-science/fun-with-arma-var-and-granger-causality-6fdd29d8391c
 
