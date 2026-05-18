@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=YQXRwvFQOPk&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI4
 
 ## Prepare the Notebook(s):
 
-#1 Yuen
+#1 Yuen ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_convergence_hypothesis_double_lasso.ipynb
 
-#2 Polina
+#2 Polina ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python_heterogeneous_wage_effects.ipynb
 
