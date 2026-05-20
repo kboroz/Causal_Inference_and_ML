@@ -16,7 +16,7 @@ The "CausalML-Book" — a comprehensive, open-access resource that explores both
 
 https://causalml-book.org/
 
-The "CausalMLBook" — i sanother open-access resource that tackles the field from a different viewpoint.
+The "CausalMLBook" — is another open-access resource that tackles the field from a different viewpoint.
 
 https://www.causalmlbook.com/
 
