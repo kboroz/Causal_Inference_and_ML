@@ -6,6 +6,8 @@ https://towardsdatascience.com/causal-discovery-6858f9af6dcb/
 
 https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5fd1dd82fa90
 
+## Additional reading(s) - not mandatory:
+
 https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00524/full
 
 ## Watch the video(s):
