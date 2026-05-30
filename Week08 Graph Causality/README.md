@@ -1,5 +1,7 @@
 ## Read the article(s):
 
+https://towardsdatascience.com/causal-inference-962ae97cefda/
+
 https://towardsdatascience.com/causal-discovery-6858f9af6dcb/
 
 https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5fd1dd82fa90
