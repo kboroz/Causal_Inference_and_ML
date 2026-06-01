@@ -20,7 +20,7 @@ https://github.com/opencampus-sh/ml-project-template
   -If possible, describe or show some methods or techniques from the course you would like to apply to your dataset
 
 
-# **Precurser on graphs and Networks - if time permits**
+# **Precursor to Graphs and Networks - if time permits**
 
 https://www.youtube.com/watch?v=a6Wh6-6toiQ
 
