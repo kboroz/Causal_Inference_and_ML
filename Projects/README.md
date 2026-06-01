@@ -6,6 +6,8 @@ https://github.com/opencampus-sh/ml-project-template
 
 https://www.kaggle.com/datasets/cloverchen/causalpitfalls-benchmark-causal-data-neurips-2025
 
+https://www.kaggle.com/datasets/likithagedipudi/run-club-marathon-performance-dataset
+
 ## "Working" titles and/or datasets for your project(s):
     
     Ali -> "casual_effect"
