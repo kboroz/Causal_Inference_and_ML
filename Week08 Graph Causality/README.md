@@ -26,7 +26,7 @@ https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
 
 ## Prepare the Notebook(s):
 
-#1 Lucas
+#1 Sajjad
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM2/python-colliderbias-hollywood.ipynb
 
