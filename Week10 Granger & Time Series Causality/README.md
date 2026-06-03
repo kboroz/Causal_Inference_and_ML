@@ -40,4 +40,8 @@ https://github.com/cstorm125/granger/blob/master/trend_granger.ipynb
 
 https://medium.com/data-science/fun-with-arma-var-and-granger-causality-6fdd29d8391c
 
+#4 Lucas
+
+https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM4/python-identification-analysis-of-401-k-example-w-dags.ipynb
+
 
