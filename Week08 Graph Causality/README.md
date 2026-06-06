@@ -1,5 +1,13 @@
 ## Read the article(s):
 
+https://towardsdatascience.com/causal-effects-f30f962ffff3/
+
+https://towardsdatascience.com/propensity-score-5c29c480130c/
+
+https://towardsdatascience.com/causal-effects-via-the-do-operator-5415aefc834a/
+
+https://towardsdatascience.com/causal-effects-via-dags-801df31da794/
+
 https://towardsdatascience.com/causality-an-introduction-f8a3f6ac4c4a/
 
 https://towardsdatascience.com/causal-inference-962ae97cefda/
