@@ -1,5 +1,7 @@
 ## Read the article(s):
 
+https://towardsdatascience.com/causality-an-introduction-f8a3f6ac4c4a/
+
 https://towardsdatascience.com/causal-inference-962ae97cefda/
 
 https://towardsdatascience.com/causal-discovery-6858f9af6dcb/
