@@ -36,9 +36,12 @@ https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
 
 ## Prepare the Notebook(s):
 
-Remaks: replace:
+Remarks: 
+
+replace:
 
 from pgmpy.models.BayesianModel import BayesianNetwork
+
 with:
 
 from pgmpy.models import DiscreteBayesianNetwork
