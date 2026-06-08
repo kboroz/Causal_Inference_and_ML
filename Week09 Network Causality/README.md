@@ -4,6 +4,18 @@ https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676
 
 ## Watch the video(s):
 
+https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
+
+https://www.youtube.com/watch?v=ABCGCf8cJOE&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=3
+
+https://www.youtube.com/watch?v=0YLZXjMHA-8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=4
+
+https://www.youtube.com/watch?v=ex2qllcVneY&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=5
+
+https://www.youtube.com/watch?v=mdWQYYapvR8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=6
+
+https://www.youtube.com/watch?v=A-yKQamf2Fc&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=7
+
 https://www.youtube.com/watch?v=nAEb1lOf_4o&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=8
 
 https://www.youtube.com/watch?v=QLIkOtKS4os&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=9
