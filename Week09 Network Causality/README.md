@@ -1,7 +1,3 @@
-## Read the article(s):
-
-https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/
-
 ## Watch the video(s):
 
 https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
