@@ -36,6 +36,15 @@ https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
 
 ## Prepare the Notebook(s):
 
+Remaks: replace:
+
+from pgmpy.models.BayesianModel import BayesianNetwork
+with:
+
+from pgmpy.models import DiscreteBayesianNetwork
+
+Also, replace "BayesianNetwork" with "DiscreteBayesianNetwork" where necessary.
+
 #1 Sajjad
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM2/python-colliderbias-hollywood.ipynb
