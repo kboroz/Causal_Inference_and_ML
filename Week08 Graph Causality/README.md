@@ -24,12 +24,6 @@ https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00524/
 
 https://www.youtube.com/watch?v=AStrI3FhMWg
 
-https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
-
-https://www.youtube.com/watch?v=ABCGCf8cJOE&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=3
-
-https://www.youtube.com/watch?v=0YLZXjMHA-8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=4
-
 ## Additional video(s) - not mandatory:
 
 https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
