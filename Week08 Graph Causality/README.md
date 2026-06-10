@@ -42,15 +42,15 @@ from pgmpy.models import DiscreteBayesianNetwork
 
 Also, replace "BayesianNetwork" with "DiscreteBayesianNetwork" where necessary.
 
-#1 Sajjad
+#1 Sajjad ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM2/python-colliderbias-hollywood.ipynb
 
-#2 Cosima
+#2 Cosima ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM3/python-pgmpy.ipynb
 
-#3 Chetna
+#3 Chetna ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/CM3/python-dosearch.ipynb
 
