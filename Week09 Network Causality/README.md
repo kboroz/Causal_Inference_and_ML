@@ -16,6 +16,6 @@ https://medium.com/causality-in-data-science/structural-causal-models-a-quick-in
 
 ## Prepare the Notebooks:
 
-#1 Julian
+#1 Julian ✅
 
 https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM4/python_dml_inference_for_gun_ownership.ipynb
