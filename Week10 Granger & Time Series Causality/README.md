@@ -18,15 +18,15 @@ https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference
 
 #1 Philipp
 
-Week10_Notebook_01_GDP_Comsumption.ipynb
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week10%20Granger%20%26%20Time%20Series%20Causality/Week10_Notebook_01_GDP_Comsumption.ipynb
 
 #2 Wassem
 
-Week10_Notebook_02_Chicken_&_Eggs_granger_causality_colab.ipynb
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week10%20Granger%20%26%20Time%20Series%20Causality/Week10_Notebook_02_Chicken_%26_Eggs_granger_causality_colab.ipynb
 
 #3 Christian
 
-Week10_Notebook_03_Financial_Time_Series.ipynb
+https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week10%20Granger%20%26%20Time%20Series%20Causality/Week10_Notebook_03_Financial_Time_Series.ipynb
 
 #4 Lucas
 
