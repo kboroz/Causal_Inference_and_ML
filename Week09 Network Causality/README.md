@@ -1,32 +1,18 @@
 ## Watch the video(s):
 
-https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=2
+https://medium.com/causality-in-data-science/why-machine-learning-needs-causality-3d33e512cd37
 
-https://www.youtube.com/watch?v=ABCGCf8cJOE&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=3
+https://medium.com/causality-in-data-science/what-is-causal-machine-learning-ceb480fd2902
 
-https://www.youtube.com/watch?v=0YLZXjMHA-8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=4
+https://medium.com/causality-in-data-science/what-are-causal-graphs-abdb50354c8a
 
-https://www.youtube.com/watch?v=ex2qllcVneY&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=5
+https://medium.com/causality-in-data-science/confounding-colliding-d-separation-and-sleeping-with-shoes-on-8ba43c976354
 
-https://www.youtube.com/watch?v=mdWQYYapvR8&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=6
+https://medium.com/causality-in-data-science/assumptions-for-causal-discovery-cc194d607a14
 
-https://www.youtube.com/watch?v=A-yKQamf2Fc&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=7
+https://medium.com/causality-in-data-science/introducing-conditional-independence-and-causal-discovery-77919db6159c
 
-https://www.youtube.com/watch?v=nAEb1lOf_4o&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=8
-
-https://www.youtube.com/watch?v=QLIkOtKS4os&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=9
-
-https://www.youtube.com/watch?v=CJ-KdKCeiYg&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=10
-
-https://www.youtube.com/watch?v=m4Vma8Nkj70&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=11
-
-https://www.youtube.com/watch?v=ZyiW_ibeDGc&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=12
-
-https://www.youtube.com/watch?v=xoSU9aDSy4U&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=13
-
-https://www.youtube.com/watch?v=F45X7e6QS4E&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=14
-
-https://www.youtube.com/watch?v=HFMN-Bs7ywg&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&index=15
+https://medium.com/causality-in-data-science/structural-causal-models-a-quick-introduction-1ab49259e921
 
 ## Prepare the Notebooks:
 
