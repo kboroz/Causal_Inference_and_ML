@@ -20,14 +20,6 @@ https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5
 
 https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf
 
-## Watch the video(s):
-
-https://www.youtube.com/watch?v=AStrI3FhMWg
-
-## Additional video(s) - not mandatory:
-
-https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
-
 ## Prepare the Notebook(s):
 
 Remarks: 
