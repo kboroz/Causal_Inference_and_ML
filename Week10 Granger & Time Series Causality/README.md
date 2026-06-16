@@ -8,8 +8,6 @@ https://medium.com/causality-in-data-science/hands-on-causal-effect-estimation-w
 
 https://medium.com/causality-in-data-science/nonlinear-causal-effect-estimation-with-python-b4edfd8251a9
 
-https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/
-
 ## Additional reading(s) - not mandatory:
 
 https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference_for_Time_Series_NREE.pdf
