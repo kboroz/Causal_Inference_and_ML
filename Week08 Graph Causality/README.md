@@ -18,7 +18,7 @@ https://medium.com/data-science/using-causal-graphs-to-answer-causal-questions-5
 
 ## Additional reading(s) - not mandatory:
 
-https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00524/full
+https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf
 
 ## Watch the video(s):
 
