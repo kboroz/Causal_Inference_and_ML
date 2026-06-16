@@ -1,5 +1,9 @@
 ## Watch the video(s):
 
+t.b.c.
+
+## Read the article(s):
+
 https://medium.com/causality-in-data-science/why-machine-learning-needs-causality-3d33e512cd37
 
 https://medium.com/causality-in-data-science/what-is-causal-machine-learning-ceb480fd2902
@@ -13,6 +17,10 @@ https://medium.com/causality-in-data-science/assumptions-for-causal-discovery-cc
 https://medium.com/causality-in-data-science/introducing-conditional-independence-and-causal-discovery-77919db6159c
 
 https://medium.com/causality-in-data-science/structural-causal-models-a-quick-introduction-1ab49259e921
+
+## Additional reading(s) - not mandatory:
+
+https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00524/full
 
 ## Prepare the Notebooks:
 
