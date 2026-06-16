@@ -22,6 +22,10 @@ https://medium.com/causality-in-data-science/structural-causal-models-a-quick-in
 
 https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2019.00524/full
 
+https://arxiv.org/pdf/2312.11582
+
+https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/61_Meek.pdf
+
 ## Prepare the Notebooks:
 
 #1 Julian ✅
