@@ -11,8 +11,6 @@ https://github.com/julianlohmann/CausalMLproject/tree/main
 --------------------------------------------------------------
 --------------------------------------------------------------
 --------------------------------------------------------------
-
-
 ## Chetna
 https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
 ## Iris
@@ -28,7 +26,6 @@ https://github.com/chradden/causalinference-status
 https://github.com/mominali12/Offer-and-Effect
 ## Polina
 https://github.com/polinato/simpsons-paradox-drug-recovery
-
 ## Martha
 https://github.com/marthab-oss/Modeling-Coping-Strategy-Improvement-via-Causal-Inference
 ## Lucas
@@ -37,3 +34,5 @@ https://github.com/LucasNebelung/Causally__exploring_PEEP_in_MIMIC
 https://github.com/Sajjad5/causal-portfolio-risk
 ## Wasseem
 https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
+## Aadip
+https://github.com/Aadip-Thapaliya/CausalInferenceML
