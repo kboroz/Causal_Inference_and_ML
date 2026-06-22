@@ -12,6 +12,10 @@ https://medium.com/causality-in-data-science/nonlinear-causal-effect-estimation-
 
 https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference_for_Time_Series_NREE.pdf
 
+https://github.com/jakobrunge/tigramite
+
+https://github.com/lcastri/causalflow
+
 ## Prepare the Notebook(s)
 
 #1 Philipp
