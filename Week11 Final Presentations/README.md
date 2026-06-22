@@ -1,7 +1,7 @@
-## Lena
+## Lena ✅
 https://github.com/lefie1231/CausalInference_ML
 
-## Julian
+## Julian ✅
 https://github.com/julianlohmann/CausalMLproject/tree/main
 
 --------------------------------------------------------------
