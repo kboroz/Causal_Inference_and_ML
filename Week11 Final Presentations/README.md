@@ -15,9 +15,6 @@ https://github.com/Ela200/did-minimum-wage-project
 ## Chetna
 https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
 
-## Iris
-https://github.com/irisyyl/Casual_Inference_causal_direction_iv
-
 ## Phillip
 https://github.com/chilipp15/ml-sovereign-default-prediction
 
@@ -47,3 +44,6 @@ https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
 
 ## Aadip
 https://github.com/Aadip-Thapaliya/CausalInferenceML
+
+## Iris
+https://github.com/irisyyl/Casual_Inference_causal_direction_iv
