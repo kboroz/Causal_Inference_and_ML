@@ -10,11 +10,19 @@ https://medium.com/causality-in-data-science/nonlinear-causal-effect-estimation-
 
 ## Additional reading(s) - not mandatory:
 
+# tigramite
+
 https://causalinferencelab.com/wp-content/uploads/2023/06/Runge_Causal_Inference_for_Time_Series_NREE.pdf
 
 https://github.com/jakobrunge/tigramite
 
+# CausalFlow
+
 https://github.com/lcastri/causalflow
+
+# PhD-Thesis: Modeling Complex Dependence in Multivariate Time Series, with Applications to Brain Signals
+
+https://repository.kaust.edu.sa/items/51d60b32-f24e-4cdc-8c99-52773c053849
 
 ## Prepare the Notebook(s)
 
