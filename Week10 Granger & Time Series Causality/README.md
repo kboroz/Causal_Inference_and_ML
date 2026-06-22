@@ -30,8 +30,5 @@ https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week10%20Granger%20%
 
 https://github.com/kboroz/Causal_Inference_and_ML/blob/main/Week10%20Granger%20%26%20Time%20Series%20Causality/Week10_Notebook_03_Financial_Time_Series.ipynb
 
-#4 Lucas
-
-https://colab.research.google.com/github/CausalAIBook/MetricsMLNotebooks/blob/main/PM4/python-identification-analysis-of-401-k-example-w-dags.ipynb
 
 
