@@ -22,11 +22,11 @@ https://github.com/Ela200/did-minimum-wage-project
 ## Chetna ✅
 https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Phillip
+## Phillip ✅
 https://github.com/chilipp15/ml-sovereign-default-prediction
+
+--------------------------------------------------------------
+--------------------------------------------------------------
 
 ## Cosima
 https://github.com/C-B-001/Mediator-Outcome_Confounding_in_Causal_Inference
