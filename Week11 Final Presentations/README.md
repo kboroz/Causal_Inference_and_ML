@@ -28,17 +28,17 @@ https://github.com/chilipp15/ml-sovereign-default-prediction
 ## Cosima ✅
 https://github.com/C-B-001/Mediator-Outcome_Confounding_in_Causal_Inference
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Polina
+## Polina ✅
 https://github.com/polinato/simpsons-paradox-drug-recovery
 
-## Sajjad
+## Sajjad ✅
 https://github.com/Sajjad5/causal-portfolio-risk
 
-## Wasseem
+## Wasseem ✅
 https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
+
+--------------------------------------------------------------
+--------------------------------------------------------------
 
 ## Aadip
 https://github.com/Aadip-Thapaliya/CausalInferenceML
