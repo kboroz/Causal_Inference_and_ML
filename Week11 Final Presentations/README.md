@@ -37,14 +37,16 @@ https://github.com/Sajjad5/causal-portfolio-risk
 ## Wasseem ✅
 https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
 
+## Yuen ✅
+https://github.com/irisyyl/Casual_Inference_causal_direction_iv
+
 --------------------------------------------------------------
 --------------------------------------------------------------
 
 ## Aadip
 https://github.com/Aadip-Thapaliya/CausalInferenceML
 
-## Yuen - Iris
-https://github.com/irisyyl/Casual_Inference_causal_direction_iv
+
 
 ## Ali
 https://github.com/mominali12/Offer-and-Effect
