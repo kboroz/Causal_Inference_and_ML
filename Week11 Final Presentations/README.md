@@ -25,14 +25,11 @@ https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
 ## Phillip ✅
 https://github.com/chilipp15/ml-sovereign-default-prediction
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Cosima
+## Cosima ✅
 https://github.com/C-B-001/Mediator-Outcome_Confounding_in_Causal_Inference
 
-## Ali
-https://github.com/mominali12/Offer-and-Effect
+--------------------------------------------------------------
+--------------------------------------------------------------
 
 ## Polina
 https://github.com/polinato/simpsons-paradox-drug-recovery
@@ -46,5 +43,8 @@ https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
 ## Aadip
 https://github.com/Aadip-Thapaliya/CausalInferenceML
 
-## Iris
+## Yuen - Iris
 https://github.com/irisyyl/Casual_Inference_causal_direction_iv
+
+## Ali
+https://github.com/mominali12/Offer-and-Effect
