@@ -19,11 +19,11 @@ https://github.com/marthab-oss/Modeling-Coping-Strategy-Improvement-via-Causal-I
 ## Elaa ✅
 https://github.com/Ela200/did-minimum-wage-project
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Chetna
+## Chetna ✅
 https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
+
+--------------------------------------------------------------
+--------------------------------------------------------------
 
 ## Phillip
 https://github.com/chilipp15/ml-sovereign-default-prediction
