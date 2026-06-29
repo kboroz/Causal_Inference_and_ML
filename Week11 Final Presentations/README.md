@@ -7,20 +7,20 @@ https://github.com/julianlohmann/CausalMLproject/tree/main
 --------------------------------------------------------------
 --------------------------------------------------------------
 
-## Christian
+## Christian ✅
 https://github.com/chradden/causalinference-status
 
-## Lucas
+## Lucas ✅
 https://github.com/LucasNebelung/Causally__exploring_PEEP_in_MIMIC
 
-## Martha
+## Martha ✅
 https://github.com/marthab-oss/Modeling-Coping-Strategy-Improvement-via-Causal-Inference
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Elaa
+## Elaa ✅
 https://github.com/Ela200/did-minimum-wage-project
+
+--------------------------------------------------------------
+--------------------------------------------------------------
 
 ## Chetna
 https://github.com/ChetnaLourembam/Causal-Inference-Machine-Learning-Project
