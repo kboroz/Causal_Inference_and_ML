@@ -40,13 +40,11 @@ https://github.com/Waseem-abbas512/CausalML-CropYield-Sustainability
 ## Yuen ✅
 https://github.com/irisyyl/Casual_Inference_causal_direction_iv
 
---------------------------------------------------------------
---------------------------------------------------------------
-
-## Aadip
+## Aadip ✅
 https://github.com/Aadip-Thapaliya/CausalInferenceML
 
+--------------------------------------------------------------
+--------------------------------------------------------------
 
-
-## Ali
+## Ali ❌
 https://github.com/mominali12/Offer-and-Effect
